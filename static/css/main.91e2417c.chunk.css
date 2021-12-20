@@ -1,0 +1,2 @@
+*{box-sizing:border-box}.App__title{text-decoration:underline}.Tabs__content{margin:0;padding:20px;border:2px solid}.Tabs__nav{display:flex;flex-direction:row;align-items:flex-end}.Tab{width:90px;height:60px;padding:0;border:2px solid transparent;border-bottom-color:#000;background-color:#777;font-size:26px}.Tab:hover{background-color:#989898}.Tab--selected{border-color:#000 #000 transparent;height:65px;border-radius:8px 8px 0 0}.Tab--selected,.Tab--selected:hover{background-color:#cbcbcb}
+/*# sourceMappingURL=main.91e2417c.chunk.css.map */
